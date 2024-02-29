@@ -1,0 +1,7 @@
+<---- Hello World ---->
+
+Nama        : Raja Hariadi
+Universitas : Sekolah Tinggi Teknologi Dumai
+Prodi       : Teknik Informatika
+Hobby       : Bersepada, Ngegame
+Fun Fact    : Gak bisa bersiul
